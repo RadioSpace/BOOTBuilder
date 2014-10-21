@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscAppLib", "DiscAppLib\DiscAppLib.csproj", "{CFACDA72-8F15-4522-B063-6C97FABD5E7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickISO", "QuickISO\QuickISO.csproj", "{35B77575-D87B-48AC-AE10-B796B83212AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{CFACDA72-8F15-4522-B063-6C97FABD5E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFACDA72-8F15-4522-B063-6C97FABD5E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFACDA72-8F15-4522-B063-6C97FABD5E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B77575-D87B-48AC-AE10-B796B83212AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B77575-D87B-48AC-AE10-B796B83212AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B77575-D87B-48AC-AE10-B796B83212AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B77575-D87B-48AC-AE10-B796B83212AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
